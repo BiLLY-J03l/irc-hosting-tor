@@ -45,8 +45,22 @@ This repo showcases how to deploy and configure an IRC server on the deep web
 # Connecting to TOR
 
 - next step is connecting our IRC server to TOR network
+- edit /etc/tor/torrc config file.
+- we're looking to configure hidden services
 
+- ![image](https://github.com/user-attachments/assets/eb7181be-a753-4eef-b035-0fc2b35a4b2a)
 
+- ![image](https://github.com/user-attachments/assets/f360e9d1-4ac0-4cb6-a7d8-f12c2193426c)
+
+- save and exit
+  
+- connect to tor
+- ![image](https://github.com/user-attachments/assets/9231d63a-8fe6-40c3-acdf-ff25730108c1)
+- connection successful
+
+- below, we find the hostname of our hidden service public on TOR.
+- ![image](https://github.com/user-attachments/assets/a2e783d4-8afd-4971-aa82-82abb78f5b5c)
+- lgqucfiywr5kcroqm7ja2xnqykv455wderyhpmg3grryj2xr7xfszwid.onion
 
 
 
